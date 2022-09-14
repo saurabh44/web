@@ -26,7 +26,7 @@ class Main {
                              }
                       }
                       if(c1>=c2)
-                      sb.append(c2);
+                      sb.appeend(c2);
     
                       else
                       sb.append(c1);
