@@ -16,6 +16,6 @@ static int DragonSlayer(int A, int B, int C,int D){
          }
      }
  }
- return 0;
+ return 1;
        
 }
